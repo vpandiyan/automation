@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "770793890981",
+    "firebase_url": "https://cryotos-lincoln.firebaseio.com",
+    "project_id": "cryotos-lincoln",
+    "storage_bucket": "cryotos-lincoln.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770793890981:android:c8ee1bfafccd7ec1",
+        "android_client_info": {
+          "package_name": "com.piqotech.cryotoslincoln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770793890981-8t9lk0frd26nu0prem8rmkaecps5e7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpLfeLI9HApuckfQO8QQt_9FM8INc8hEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

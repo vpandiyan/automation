@@ -1,0 +1,46 @@
+{
+    "paths": {
+        "lincoln": {
+            "tspath":"Config/lincoln/config.ts",
+            "xmlpath":"Config/lincoln/config.xml",
+            "jsonpath":"Config/lincoln/google-services.json",
+            "apkpath":"lincoln/lincoln.apk"
+        },
+        "unicorn": {
+            "tspath":"Config/unicorn/config.ts",
+            "xmlpath":"Config/unicorn/config.xml",
+            "jsonpath":"Config/unicorn/google-services.json",
+            "apkpath":"unicorn/unicorn.apk"
+        },
+        "demo": {
+            "tspath":"Config/demo/config.ts",
+            "xmlpath":"Config/demo/config.xml",
+            "jsonpath":"Config/demo/google-services.json",
+            "apkpath":"demo/demo.apk"
+        },
+        "local": {
+            "tspath":"Config/local/config.ts",
+            "xmlpath":"Config/local/config.xml",
+            "jsonpath":"Config/local/google-services.json",
+            "apkpath":"local/local.apk"
+        },
+        "prod": {            
+            "tspath":"cryotos/src/app/config.ts",
+            "xmlpath":"cryotos/config.xml",
+            "jsonpath":"cryotos/google-services.json"
+        },
+        "gitrepopath":"App",
+        "giturl":"https://github.com/MinusculeTechnologiesLtd/mobilecode.git",
+        "buildpath":"Builds",
+        "propath":"App/mobilecode/cryotos/",
+        "apkpath":"platforms/android/build/outputs/apk/release/"
+    },
+    "hockeyapp": {
+        "token":"c92f0877cbd8409ebb29b0ae937f59b3",
+        "upload_url":"https://rink.hockeyapp.net/api/2/apps/upload",
+        "params" :{
+            "notes":"Latest Build",
+            "notify":"2"
+        }
+    }
+}

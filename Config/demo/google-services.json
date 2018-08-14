@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1066426956898",
+    "firebase_url": "https://cryotos-demo-piqotech.firebaseio.com",
+    "project_id": "cryotos-demo-piqotech",
+    "storage_bucket": "cryotos-demo-piqotech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066426956898:android:2402be0a14e34b8a",
+        "android_client_info": {
+          "package_name": "com.piqotech.cryotosdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066426956898-ll36tbu1mo26nq0r8o5kftjja5to4jot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnLlDb4Sntb8hgqfC7ES-t_f6sY6q28w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
